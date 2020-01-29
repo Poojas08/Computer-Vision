@@ -1,0 +1,5 @@
+Python/OpenCV program that will do the following:
+1. Extract the contour of the object using the Pavlidis algorithm. Your function should return a 2D numpy array of the XY
+points that make up the contour.
+2. Compute the estimated area of the contour using the Gauss formula.
+3. Write a function that implements one pass of the Discrete Contour Evolution algorithm.

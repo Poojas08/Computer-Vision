@@ -1,0 +1,5 @@
+The program does the following:
+• load a monochrome image (uncompressed);
+• construct a 5-level Gaussian pyramid, putting the subimages into a larger image for display;
+• construct a 5-level Laplacian pyramid, putting the subimages into a larger image for display;
+• compute the Fourier transforms (magnitudes) of each of the twelve images generated, and display them.

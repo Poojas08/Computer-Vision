@@ -1,0 +1,9 @@
+The program will do the following:
+• Load the three images;
+• Use ORB to find the correspondences between image0 and image1;
+• Print to the console the displacement between image0 and image1;
+• Merge these two images to produce a first merged result;
+• Use ORB to find the correspondences between the first merged image and image2;
+• Print to the console the displacement between the first merged image and image2;
+• Merge these two images to produce a final result;
+• Write the result image to a .png file.

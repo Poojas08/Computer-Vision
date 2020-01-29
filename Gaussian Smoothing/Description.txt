@@ -1,0 +1,7 @@
+The program does the following:
+• load a monochrome image;
+• compute the result of applying a 2D Gaussian filter of size 11 by 11 with sigma = 1.5;
+• compute another image which is the result of applying the equivalent 1D Gaussian filter;
+• compute the difference image – the pixel-by-pixel difference in the two result images;
+• display all four images (original, 2D result, 1D result and difference), and
+• write (to the console) the mean, variance and median of the difference image.

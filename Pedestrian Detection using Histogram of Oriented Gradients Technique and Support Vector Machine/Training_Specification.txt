@@ -1,0 +1,9 @@
+Python3.7 is used as main programming language to implement
+this project. Modules which were imported are Numpy , OpenCV, Scikit-Learn.
+2416 positive Images were used and 4146 negative images were used for training.
+60 Positive Images and 187 negative images were used for testing
+Feature vector for 8x8 is of size 3780
+Feature vector for 4x4 is of size 16740
+Feature vector for 6x6 is of size 6562
+PRE-PROCESSING : All of the images are cropped to the same size 64x128 so as to have
+feature vector of uniform size. Also, images are converted to grayscale.
